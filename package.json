@@ -1,0 +1,12 @@
+{
+    "name": "hopiu.annotate",
+    "title": "JSDoc Annotate",
+    "description": "Add JSDoc annotations to sourcecode",
+    "homepage": "https://github.com/hopiu/annotate", // URL for your project
+    "version": "0.0.1",
+    "author": "Benedikt Willi",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
